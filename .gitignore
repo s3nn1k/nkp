@@ -1,0 +1,8 @@
+/bin/
+/dist/
+/nkp
+/nkp.exe
+*.nkpb
+*.txt
+.nkp-tmp-*
+.DS_Store
